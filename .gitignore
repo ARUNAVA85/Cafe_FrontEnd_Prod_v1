@@ -34,3 +34,6 @@ build/
 
 ### Ignore application.properties to prevent committing secrets ###
 src/main/resources/application.properties
+*.jks
+*.pem
+.env
